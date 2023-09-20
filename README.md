@@ -7,10 +7,9 @@ File / Settings / Plugins / Cucumber for Java
 O ícone deve ser o pepino do cocumber
 
 *** Em calaculadora.feature, crie coloque o conteúdo abaixo:
+
 #language: pt
-
   Funcionalidade: testar adição na calculadora
-
     Cenário: adicionar dois números usando a calculadora
       Dado que eu tenho uma calculadora
       Quando eu somo 5 e 7
